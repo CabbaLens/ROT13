@@ -1,0 +1,6 @@
+{
+  "name": "Rot13",
+  "tagline": "A very small ROT13 encrypter and decrypter in HTML and JS.",
+  "body": "Rot13 is cool :)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
